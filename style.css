@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: #054a53;
+  padding-top: 6rem;
+}
+
+#projects {
+  background-color: #054a53;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.navbar .nav-link:hover {
+  hover: #01f7e3;
+}
